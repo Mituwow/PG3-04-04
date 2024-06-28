@@ -9,5 +9,6 @@ void Circle::Size()
 
 void Circle::Draw()
 {
+	Size();
 	printf("â~ÇÃñ êœÇÕ%f\n", result_);
 }

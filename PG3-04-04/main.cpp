@@ -3,8 +3,6 @@
 #include "Circle.h"
 #include "Rectangle.h"
 
-//値が出てこない！！！
-
 int main(){
 
 	IShape* shape[2];

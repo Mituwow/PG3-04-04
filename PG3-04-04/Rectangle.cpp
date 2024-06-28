@@ -8,5 +8,6 @@ void Rectangle::Size()
 
 void Rectangle::Draw()
 {
+	Size();
 	printf("‹éŒ`‚Ì–ÊÏ‚Í%f\n", result_);
 }
